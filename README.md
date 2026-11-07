@@ -5,14 +5,14 @@
 [![Website](https://img.shields.io/badge/Official_Website-aradhyaerp.in-1e315a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aradhyaerp.in)
 [![Parent App](https://img.shields.io/badge/Google_Play-Parent_App-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aradhyaerp.school_parent_app)
 [![Staff App](https://img.shields.io/badge/Google_Play-Staff_App-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aradhyaerp.school_staff_app)
-[![WhatsApp Support](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919955882299?text=Hi!+I%27m+interested+in+Aradhya+ERP)
+[![WhatsApp Bot](https://img.shields.io/badge/WhatsApp-Interactive_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/aradhyaerp/whatsapp-erp-bot)
 [![Flagship Pricing](https://img.shields.io/badge/Flagship_Plan-₹10%2FStudent%2FMo-ff8000?style=for-the-badge)](https://aradhyaerp.in/#pricing)
 [![Made in India](https://img.shields.io/badge/Made_with_❤️_in-India_🇮🇳-blue?style=for-the-badge)](https://aradhyaerp.in)
 
 **India's Most Trusted, All-in-One Cloud-Based School Management ERP**  
 *Simplifying Admissions, Fee Collection, Attendance, Exams, GPS Bus Tracking & Parent Communication for 100+ Institutions.*
 
-[🚀 Explore Live Platform](https://aradhyaerp.in) • [✨ View 50+ Modules](https://aradhyaerp.in/#modules) • [💳 Pricing Plans](https://aradhyaerp.in/#pricing) • [📲 Mobile Apps](#-official-google-play-store-apps) • [📞 Contact Support](https://aradhyaerp.in/contact-us)
+[🚀 Explore Live Platform](https://aradhyaerp.in) • [✨ View 50+ Modules](https://aradhyaerp.in/#modules) • [💳 Pricing Plans](https://aradhyaerp.in/#pricing) • [🤖 WhatsApp Bot](https://github.com/aradhyaerp/whatsapp-erp-bot) • [📲 Mobile Apps](#-official-google-play-store-apps) • [📞 Contact Support](https://aradhyaerp.in/contact-us)
 
 ---
 
@@ -28,6 +28,20 @@ We empower school owners, principals, teachers, and parents with powerful automa
 - 👨‍🎓 **1,00,000+ Students** managed seamlessly
 - 👩‍🏫 **2,500+ Teachers & Staff** empowered
 - 🏆 **12+ Years** of deep domain expertise in educational technology
+
+---
+
+## 🤖 Interactive WhatsApp Action Bot
+
+Parents don't even need to open a web browser—they can manage their student's school updates right from WhatsApp! Check out our open integration repository: **[`aradhyaerp/whatsapp-erp-bot`](https://github.com/aradhyaerp/whatsapp-erp-bot)**
+
+| Command | Action ID | Response & Live Action |
+|:---|:---|:---|
+| `/fees` | `fees-query` | Returns live pending fee balance, due date, and dynamic UPI online payment checkout link. |
+| `/attendance` | `attendance-query` | Instant attendance status, daily punch in-time, and month-to-date attendance percentage. |
+| `/homework` | `homework-query` | Today's active homework and class assignments. |
+| `/notice` | `notice-query` | Latest school circulars, exam dates, or emergency holiday notices with attachment URLs. |
+| `/help` | `help-query` | Interactive bot guidance menu. |
 
 ---
 
@@ -49,7 +63,7 @@ No hidden setup fees. Transparent per-student billing that scales with your inst
 | Plan | Price (per Student) | WhatsApp / SMS Alerts | Custom Website | Included Features |
 |:---|:---:|:---:|:---:|:---|
 | **Starter Plan** | **₹5** / month <br>*(₹60 / year)* | ❌ Not Included <br>*(₹2,000/mo add-on)* | ❌ Not Included | Core modules: Admissions, Student records, Fee receipts, Report cards, Basic attendance. |
-| **Standard Plan** <br>🔥 *Most Popular* | **₹10** / month <br>*(₹120 / year)* | ✅ **All Included** <br>*(WhatsApp, SMS, Email)* | ✅ **Included** <br>*(School website builder)* | **All 50+ Modules Included** + Parent Mobile App, Teacher App, Online Exam Portal, GPS Bus Tracking. |
+| **Standard Plan** <br>🔥 *Most Popular* | **₹10** / month <br>*(₹120 / year)* | ✅ **All Included** <br>*(WhatsApp Bot, SMS, Email)* | ✅ **Included** <br>*(School website builder)* | **All 50+ Modules Included** + Parent Mobile App, Teacher App, Online Exam Portal, GPS Bus Tracking. |
 | **Premium Plan** | **₹15** / month <br>*(₹180 / year)* | ✅ **All Included** | ✅ **Included** | **Everything in Standard Plan + Free Custom Designed & Printed ID Cards** for all students and staff. |
 
 ---
@@ -73,6 +87,7 @@ Aradhya ERP is built with modern, enterprise-grade technologies optimized for hi
 - **Database:** MySQL / MariaDB (Optimized indexes and automated encrypted backups)
 - **Frontend:** Bootstrap 5, Vanilla JS, HTML5, CSS3, DataTables
 - **Mobile Ecosystem:** Flutter / Native Android (Real-time Firebase Push Notifications)
+- **WhatsApp Engine:** OpenWA / Baileys WebSocket Gateway + Rule Matcher
 - **Hardware Integration:** Windows C# Agent for ZKTeco, eSSL Biometric machines
 - **Cloud Infrastructure:** High-availability Linux cloud servers, SSL/TLS 256-bit encryption
 

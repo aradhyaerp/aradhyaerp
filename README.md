@@ -5,7 +5,8 @@
 [![Website](https://img.shields.io/badge/Official_Website-aradhyaerp.in-1e315a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aradhyaerp.in)
 [![Parent App](https://img.shields.io/badge/Google_Play-Parent_App-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aradhyaerp.school_parent_app)
 [![Staff App](https://img.shields.io/badge/Google_Play-Staff_App-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aradhyaerp.school_staff_app)
-[![WhatsApp Bot](https://img.shields.io/badge/WhatsApp-Interactive_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/aradhyaerp/whatsapp-erp-bot)
+[![WhatsMsg Gateway](https://img.shields.io/badge/Powered_by-WhatsMsg.in-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsmsg.in/)
+[![WhatsApp Bot](https://img.shields.io/badge/WhatsApp-Interactive_Bot-1e315a?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/aradhyaerp/whatsapp-erp-bot)
 [![Flagship Pricing](https://img.shields.io/badge/Flagship_Plan-₹10%2FStudent%2FMo-ff8000?style=for-the-badge)](https://aradhyaerp.in/#pricing)
 [![Made in India](https://img.shields.io/badge/Made_with_❤️_in-India_🇮🇳-blue?style=for-the-badge)](https://aradhyaerp.in)
 
@@ -87,7 +88,7 @@ Aradhya ERP is built with modern, enterprise-grade technologies optimized for hi
 - **Database:** MySQL / MariaDB (Optimized indexes and automated encrypted backups)
 - **Frontend:** Bootstrap 5, Vanilla JS, HTML5, CSS3, DataTables
 - **Mobile Ecosystem:** Flutter / Native Android (Real-time Firebase Push Notifications)
-- **WhatsApp Engine:** OpenWA / Baileys WebSocket Gateway + Rule Matcher
+- **WhatsApp Engine:** [WhatsMsg Gateway](https://whatsmsg.in/) (Enterprise Multi-Tenant WhatsApp Webhook Bot)
 - **Hardware Integration:** Windows C# Agent for ZKTeco, eSSL Biometric machines
 - **Cloud Infrastructure:** High-availability Linux cloud servers, SSL/TLS 256-bit encryption
 
